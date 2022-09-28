@@ -1,3 +1,14 @@
+---
+permalink: /publications
+title: "Publications"
+layout: page
+redirect_from: 
+  - /research/
+  - /research.html
+  - /publications/
+  - /publications.html
+---
+
 ## Computer Science
 
 - Prime Implicant Enumeration via QBF Solvers, by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
