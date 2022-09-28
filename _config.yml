@@ -1,16 +1,16 @@
-title_html: "<b>robert</b>paßmann"
+title_html: "<b>Noel</b>Arteche"
 title: "robertpassmann.eu"
-description: "Robert Passmann is a PhD candidate in logic at the Institute for Logic, Language and Computation of the University of Amsterdam."
-url: https://www.robertpassmann.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "Noel Arteche is a PhD student in theoretical computer science at Lund University."
+url: https://www.narteche.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 
 # Author Information
-email: "r.passmann@uva.nl"
+email: "noel.arteche@gmail.com"
 contact: "e-mail"
-twitter_username: RobertPassmann
-github_username: robertpassmann
-linkedin_username: robert-passmann
-google_scholar_username: JA1616oAAAAJ
+twitter_username: alephnoell
+github_username: narteche
+#linkedin_username: robert-passmann
+#google_scholar_username: JA1616oAAAAJ
 
 langs: ["en"]
 
