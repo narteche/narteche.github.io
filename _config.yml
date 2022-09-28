@@ -1,0 +1,51 @@
+title_html: "<b>robert</b>paßmann"
+title: "robertpassmann.eu"
+description: "Robert Passmann is a PhD candidate in logic at the Institute for Logic, Language and Computation of the University of Amsterdam."
+url: https://www.robertpassmann.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+
+# Author Information
+email: "r.passmann@uva.nl"
+contact: "e-mail"
+twitter_username: RobertPassmann
+github_username: robertpassmann
+linkedin_username: robert-passmann
+google_scholar_username: JA1616oAAAAJ
+
+langs: ["en"]
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - REMDE.md
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
