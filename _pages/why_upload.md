@@ -1,7 +1,7 @@
 ---
 invisible: true
 permalink: /why_upload
-title: "Why Upload My Handwritten Notes"
+title: "Why upload my handwritten notes"
 layout: page
 redirect_from: 
   - /why_upload/
