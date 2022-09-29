@@ -20,6 +20,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - files/slides
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
