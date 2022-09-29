@@ -1,7 +1,7 @@
 ---
 permalink: /cv
 title: "CV"
-layout: about
+layout: page
 invisible: false
 redirect_from: 
   - /cv/
