@@ -16,4 +16,4 @@ I am interested in **computational complexity theory** and **philosophy of mathe
 
 I founded and co-organised the [Φ-Math reading group](https://sites.google.com/view/phi-math/) in philosophy of mathematics at the ILLC.
 
-Besides, I am interested in game studies and narrative, particularly in video games, about which I have written in different Spanish publications.
+I am also interested in game studies and narrative, particularly in video games, about which I have written in different Spanish publications.
