@@ -1,8 +1,9 @@
-title_html: "<b>Noel</b>Arteche"
+title_html: "<b>noel</b>arteche"
 title: "narteche.github.io"
 description: "Noel Arteche is a PhD student in theoretical computer science at Lund University."
 url: https://www.narteche.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
+cc: by-nc-nd
 
 # Author Information
 email: "noel.arteche@gmail.com"
