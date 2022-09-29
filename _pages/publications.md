@@ -9,18 +9,18 @@ redirect_from:
   - /publications.html
 ---
 
-## Computer Science
+### Computer Science
 
-- Prime Implicant Enumeration via QBF Solvers, by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
+- *Prime Implicant Enumeration via QBF Solvers*, by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
 
-- A Formal Language for QBF Family Definitions, by Noel Arteche and Matthias van der Hallen (2020) . In the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020).
+- *A Formal Language for QBF Family Definitions*, by Noel Arteche and Matthias van der Hallen (2020) . In the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020).
 
-## My Master's thesis
-- Parameterized Compilability (2022) - University of Amsterdam
+#### My Master's thesis
+- [*Parameterized Compilability*](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf) (2022) - University of Amsterdam
 
-  - Slides from the thesis defense (July 11, 2022)
+  - [Slides from the thesis defense](narteche.github.io/files/slides/MoL%20Thesis%20Defense%20-%20Slides.pdf) (July 11, 2022)
 
-  - My handwritten research notes — Why upload my handwritten notes?
+  - [My handwritten research notes](https://drive.google.com/file/d/1GN1zJbU4dwtxafvQE0wrRLFaBn9zXkJL/view) — Why upload my handwritten notes?
 
 ## My Bachelor's thesis
 - A Formal Language and Tool for QBF Family Definitions (2020) - University of the Basque Country / KU Leuven
