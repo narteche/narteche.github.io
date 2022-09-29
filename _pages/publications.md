@@ -9,8 +9,7 @@ redirect_from:
   - /publications.html
 ---
 
-### Theoretical Computer Science  
-
+### Theoretical Computer Science   
 
 - [*Prime Implicant Enumeration via QBF Solvers*](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf), by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
 - [*A Formal Language for QBF Family Definitions*](https://narteche.github.io/files/papers/A%20Formal%20Language%20for%20QBF%20Family%20Definitions%20%5BArteche%2C%20van%20der%20Hallen%5D.pdf), by Noel Arteche and Matthias van der Hallen (2020) . In the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020).
@@ -37,47 +36,29 @@ redirect_from:
 - [_From Trueba to Rohmer: Form, destiny and transcendentalism in Le Rayon vert and La virgen de agosto_](https://drive.google.com/file/d/1kfl8dLLv7odEvrmBCMQB14PPwOnafO9C/view) (2020)
 
 ### Notes
-- Descriptive Complexity: Summary Notes (2021)
+- [_Descriptive Complexity: Summary Notes_](https://narteche.github.io/files/notes/Descriptive%20Complexity%20-%20Summary%20Notes.pdf) (2021)
 
-- Introduction to Modal Logic: Study Notes (2020)
+- [_Introduction to Modal Logic: Study Notes_](https://narteche.github.io/files/notes/Introduction%20to%20Modal%20Logic%20-%20Study%20Notes.pdf) (2020)
 
 ### On video games (in Spanish)
-- Seattle no fue inundada: Mito y espectáculo en The Last of Us: Parte II (2020) - Published on Start
 
-- Observation: La forma, el fondo y el iPhone de Obama (2019) - Published on Start
-
-- Trüberbrook: La solución se presenta sola (2019)- Published on Start
-
-- Tomar la palabra: Diálogo, libertad e inteligencia artificial (2019) - Published on Start
-
-- 11-11 Memories Retold: Guerra, paz y espera (2019) - Published on Start
-
-- Tacoma y el cyberpunk costumbrista (2019) - [Unpublished]
-
-- Do Not Feed the Monkeys: Las noticias nunca hablan del tiempo (2018) - Published on Start
-
-- Mooncrash y Majora's Mask: Repetición y temporalidad (2018) - Published on Start
-
-- Zelda: Detrás de la leyenda, de Salva Fernández (2018) - Published on Start
-
-- El corte y la cinestesia en el lenguaje videolúdico (2018) - Published on Start
-
-- Dialogue: A Writer's Story y la dicotomía de Feynman (2018) - Published on Start
-
-- Hob (2017) - Originally published on ZehnGames
-
-- La didáctica en el Santuario de la Espada de Breath of the Wild (2017) - Published on Start
-
-- Abstracción, madurez y videojuegos (2017)  - Originally published on ZehnGames
-
-- Console Wars, de Blake J. Harris (2017) - Published on Start
-
-- Prey y el simulador inmersivo como supragénero (2017) - Originally published on ZehnGames
-
-- Flat Heroes: el multijugador matemático (2017) - Originally published on ZehnGames
-
-- Dishonored 2: El agradable anacronismo de Arkane (2017) - Published on Start
-
-- Life Is Strange y el analfabetismo videolúdico (2017) - Published on Start
-
-- El lenguaje propio y la amistad interactiva en Journey y Majora's Mask (2016) - Published on Start
+- [_Seattle no fue inundada: Mito y espectáculo en The Last of Us: Parte II_](http://www.startvideojuegos.com/seattle-no-fue-inundada-mito-y-espectaculo-en-the-last-of-us-ii/) (2020) - Published on _Start_
+- [_Observation: La forma, el fondo y el iPhone de Obama_](https://www.startvideojuegos.com/observation-la-forma-el-fondo-y-el-iphone-de-obama/) (2019) - Published on _Start_
+- [_Trüberbrook: La solución se presenta sola_](https://www.startvideojuegos.com/truberbrook-la-solucion-se-presenta-sola/) (2019)- Published on _Start_
+- [_Tomar la palabra: Diálogo, libertad e inteligencia artificial_](https://www.startvideojuegos.com/tomar-la-palabra-dialogo-libertad-e-inteligencia-artificial/) (2019) - Published on _Start_
+- [_11-11 Memories Retold: Guerra, paz y espera)_](https://www.startvideojuegos.com/11-11-memories-retold-guerra-paz-y-espera/) (2019) - Published on _Start_
+- Tacoma y el cyberpunk costumbrista (2019) - \[Unpublished\]
+- [_Do Not Feed the Monkeys: Las noticias nunca hablan del tiempo_](https://www.startvideojuegos.com/do-not-feed-the-monkeys-las-noticias-nunca-hablan-del-tiempo/) (2018) - Published on Start
+- [_Mooncrash y Majora's Mask: Repetición y temporalidad_](https://www.startvideojuegos.com/mooncrash-y-majorass-mask-repeticion-y-temporalidad/) (2018) - Published on _Start_
+- [_Zelda: Detrás de la leyenda, de Salva Fernández_](https://www.startvideojuegos.com/zelda-detras-de-la-leyenda-de-salva-fernandez/) (2018) - Published on _Start_
+- [_El corte y la cinestesia en el lenguaje videolúdico_](https://www.startvideojuegos.com/el-corte-y-la-cinestesia-en-el-lenguaje-videoludico/) (2018) - Published on _Start_
+- [_Dialogue: A Writer's Story y la dicotomía de Feynman_](https://www.startvideojuegos.com/dialogue-a-writers-story-y-la-dicotomia-de-feynman/) (2018) - Published on _Start_
+- [_Hob_] (2017) - Originally published on _ZehnGames_
+- [_La didáctica en el Santuario de la Espada de Breath of the Wild_](https://www.startvideojuegos.com/la-didactica-en-el-santuario-de-la-espada-de-breath-of-the-wild/) (2017) - Published on _Start_
+- [_Abstracción, madurez y videojuegos_]() (2017)  - Originally published on _ZehnGames_
+- [_Console Wars, de Blake J. Harris_](https://www.startvideojuegos.com/console-wars-de-blake-j-harris/) (2017) - Published on _Start_
+- [_Prey y el simulador inmersivo como supragénero_] (2017) - Originally published on _ZehnGames_
+- [_Flat Heroes: el multijugador matemático_] (2017) - Originally published on _ZehnGames_
+- [_Dishonored 2: El agradable anacronismo de Arkane_](https://www.startvideojuegos.com/dishonored-2-el-agradable-anacronismo/) (2017) - Published on _Start_
+- [_Life Is Strange y el analfabetismo videolúdico_](https://www.startvideojuegos.com/life-is-strange-analfabetismo-videoludico/) (2017) - Published on _Start_
+- [_El lenguaje propio y la amistad interactiva en Journey y Majora's Mask_](https://www.startvideojuegos.com/el-lenguaje-propio-y-la-amistad-interactiva-en-journey-y-majoras-mask/) (2016) - Published on _Start_
