@@ -28,15 +28,13 @@ redirect_from:
 ### Unpublished manuscripts   
   
 
-- Wittgenstein’s Aesthetics in the Philosophy of Mathematical Practice (2022)
+- [_Wittgenstein’s Aesthetics in the Philosophy of Mathematical Practice_](https://narteche.github.io/files/manuscripts/Wittgenstein's%20Aesthetics%20in%20the%20Philosophy%20of%20Mathematical%20Practice%20%5BNoel%20Arteche%5D.pdf) (2022)
 
-- Between Invention and Discovery: What Video Game Speedrunning Can Teach Us about Mathematical Practice (2022)
+- [_Between Invention and Discovery: What Video Game Speedrunning Can Teach Us about Mathematical Practice_](https://narteche.github.io/files/manuscripts/Between%20Invention%20and%20Discovery:%20What%20Video%20Game%20Speedrunning%20Can%20Teach%20Us%20about%20Mathematical%20Practice%20%5BNoel%20Arteche%5D.pdf) (2022)
 
-- Strict Finitism’s Unrequited Love for Computational Complexity (2021)
+- [_Strict Finitism’s Unrequited Love for Computational Complexity_](https://narteche.github.io/files/manuscripts/Strict%20Finitism's%20Unrequited%20Love%20for%20Computational%20Complexity%20%5BNoel%20Arteche%5D.pdf) (2021)
 
-- From Trueba to Rohmer: Form, destiny and transcendentalism in Le Rayon vert and La virgen de agosto (2020)
-
-- A Very Brief Introduction to Proof Complexity (2020)
+- [_From Trueba to Rohmer: Form, destiny and transcendentalism in Le Rayon vert and La virgen de agosto_](https://drive.google.com/file/d/1kfl8dLLv7odEvrmBCMQB14PPwOnafO9C/view) (2020)
 
 ### Notes
 - Descriptive Complexity: Summary Notes (2021)
