@@ -7,7 +7,7 @@ redirect_from:
   - /why_upload/
 ---
 
-<div style="text-align: right">
+<div style="text-align: justify">
   Math is messy. It is often dirty and ugly. It frequently feels coarse and rough and irritating — and it gets everywhere. But math is then beautifully displayed in LaTeX, cleaned and polished. And when a paper is very successful, its results make it to a textbook, years later, where theorems have been rewritten, ideas rephrased such that they fit better into the general scaffolding of mathematics, unified and coherent.
 </div>
 
