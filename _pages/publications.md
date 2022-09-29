@@ -19,7 +19,7 @@ redirect_from:
 
 - [*Parameterized Compilability*](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf) (2022) - University of Amsterdam
   - [Slides from the thesis defense](https://narteche.github.io/files/slides/MoL%20Thesis%20Defense%20-%20Slides.pdf) (July 11, 2022)
-  - [My handwritten research notes](https://drive.google.com/file/d/1GN1zJbU4dwtxafvQE0wrRLFaBn9zXkJL/view) — Why upload my handwritten notes?
+  - [My handwritten research notes](https://drive.google.com/file/d/1GN1zJbU4dwtxafvQE0wrRLFaBn9zXkJL/view) — [_Why upload my handwritten notes?_](https://narteche.github.io/why_upload)
 
 #### My Bachelor's thesis
 
