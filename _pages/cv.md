@@ -1,3 +1,13 @@
+---
+permalink: /cv
+title: "Curriculum Vitae"
+layout: about
+invisible: false
+redirect_from: 
+  - /cv/
+  - /cv.html
+---
+
 > **2020**—**2022**
   
   - **Master of Logic**, University of Amsterdam. Graduated _cum laude_.
