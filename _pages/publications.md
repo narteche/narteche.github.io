@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 ### Theoretical Computer Science
-
 <br />
 
 - [*Prime Implicant Enumeration via QBF Solvers*](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf), by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
