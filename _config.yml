@@ -10,8 +10,8 @@ email: "noel.arteche@gmail.com"
 contact: "e-mail"
 twitter_username: alephnoell
 github_username: narteche
-#linkedin_username: robert-passmann
-#google_scholar_username: JA1616oAAAAJ
+#linkedin_username:
+#google_scholar_username: 
 
 langs: ["en"]
 
@@ -20,7 +20,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - files/slides
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
