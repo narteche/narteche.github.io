@@ -4,8 +4,8 @@ title: "Noel Arteche"
 layout: about
 invisible: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home
+  - /home.html
 ---
 
 I recently graduated _cum laude_ from the Master of Logic at the [Institute for Logic, Language and Computation](http://www.illc.uva.nl) (ILLC) at the University of Amsterdam. I am currently also collaborating as a researcher at the [Logic and Reasoning](https://www.google.com/url?q=https%3A%2F%2Fwww.ehu.eus%2Fes%2Fweb%2Florea&sa=D) (LoRea) research group at the Faculty of Computer Science of the University of the Basque Country.
