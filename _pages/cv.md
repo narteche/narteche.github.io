@@ -13,4 +13,4 @@ redirect_from:
 - **2020**. _Best Computer Science Student Award 2020_, University of the Basque Country. 
 - **2020**. **BSc in Computer Science**, University of the Basque Country.
 
-For an extended CV in PDF, [click here](https://narteche.github.io/files/others/cv_aug22.pdf).
+For an extended CV in PDF, [click here](https://narteche.github.io/files/others/cv_oct22.pdf).
