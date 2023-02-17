@@ -6,8 +6,8 @@ baseurl: "/" # the subpath of your site, e.g. "/blog"
 cc: by-nc-nd
 
 # Author Information
-email: "noel.arteche@gmail.com"
-#contact: "e-mail"
+email: "noel.arteche@cs.lth.se"
+contact: "e-mail"
 twitter_username: alephnoell
 github_username: narteche
 #linkedin_username:
