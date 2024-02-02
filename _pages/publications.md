@@ -11,6 +11,8 @@ redirect_from:
 
 ### Theoretical Computer Science
 
+  
+
 - **Prime Implicant Enumeration via QBF Solvers**  
   Noel Arteche and Montserrat Hermo  
   *Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021)*  
