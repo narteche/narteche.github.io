@@ -11,7 +11,10 @@ redirect_from:
 
 ### Theoretical Computer Science
 
-- [*Prime Implicant Enumeration via QBF Solvers*](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf), by Noel Arteche and Montserrat Hermo (2021). In the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
+- [*Prime Implicant Enumeration via QBF Solvers*]
+  Noel Arteche and Montserrat Hermo
+  Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021).
+[[PDF]](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf)
 - [*A Formal Language for QBF Family Definitions*](https://narteche.github.io/files/papers/A%20Formal%20Language%20for%20QBF%20Family%20Definitions%20%5BArteche%2C%20van%20der%20Hallen%5D.pdf), by Noel Arteche and Matthias van der Hallen (2020) . In the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020).
 
 ### Theses
