@@ -10,9 +10,9 @@ redirect_from:
 ---
 
 ### Theoretical Computer Science
-
+   
   
-
+   
 - **Prime Implicant Enumeration via QBF Solvers**  
   Noel Arteche and Montserrat Hermo  
   *Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021)*  
@@ -24,11 +24,16 @@ redirect_from:
 
 ### Theses
 
-- **MSc thesis**: [*Parameterized Compilability*](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf) (2022) - University of Amsterdam
-  - [Slides from the thesis defense](https://narteche.github.io/files/slides/MoL%20Thesis%20Defense%20-%20Slides.pdf) (July 11, 2022)
+- **Parameterized Compilability**
+  MSc Thesis - 2022
+  *University of Amsterdam*
+  [[PDF]](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf)    [[Slides from the thesis defense - 11.07.2022]]
   - [My handwritten research notes](https://drive.google.com/file/d/1GN1zJbU4dwtxafvQE0wrRLFaBn9zXkJL/view) — [_Why upload my handwritten notes?_](https://narteche.github.io/why_upload)
 
-- **BSc thesis**: [*A Formal Language and Tool for QBF Family Definitions*](https://narteche.github.io/files/others/A%20Formal%20Language%20and%20Tool%20for%20QBF%20Family%20Definitions%20%5BNoel%20Arteche%20-%20BSc%20Thesis%20text%5D.pdf) (2020) - University of the Basque Country / KU Leuven
+- **A Formal Language and Tool for QBF Family Definitions**
+  BSc Thesis - 2020
+  *University of the Basque Country / KU Leven
+  [[PDF]](https://narteche.github.io/files/others/A%20Formal%20Language%20and%20Tool%20for%20QBF%20Family%20Definitions%20%5BNoel%20Arteche%20-%20BSc%20Thesis%20text%5D.pdf)
 
 ### Unpublished manuscripts   
 
