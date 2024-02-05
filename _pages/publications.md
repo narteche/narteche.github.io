@@ -27,7 +27,7 @@ redirect_from:
 - **Parameterized Compilability**  
   MSc Thesis - 2022  
   *University of Amsterdam*  
-  [[PDF](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf)]    [[Slides from the thesis defense - 11.07.2022](https://narteche.github.io/why_upload)]  
+  [[PDF](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf)]    [[Slides from the thesis defense - 11.07.2022](https://narteche.github.io/files/slides/defense_slides_MoL.pdf)]  
   - [My handwritten research notes](https://drive.google.com/file/d/1GN1zJbU4dwtxafvQE0wrRLFaBn9zXkJL/view) — [_Why upload my handwritten notes?_](https://narteche.github.io/why_upload)
 
 - **A Formal Language and Tool for QBF Family Definitions**  
