@@ -12,7 +12,7 @@ redirect_from:
 ### Theoretical Computer Science
    
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
-  Noel Arteche, Gaia Carenini, and Matthew Gray 
+  Noel Arteche, Gaia Carenini, and Matthew Gray  
   *Preprint*  
   [[PDF](https://narteche.github.io/files/papers/quantumatability_feb24.pdf)]
 - **Prime Implicant Enumeration via QBF Solvers**  
