@@ -11,9 +11,9 @@ contact: "e-mail"
 twitter_username: alephnoell
 github_username: narteche
 #linkedin_username:
-google_scholar_username: KuPy2gAAAAJ
-curriculum: "cv"
-  url: files/others/cv_sep23.pdf
+google_scholar_username: "https://scholar.google.com/citations?user=-KuPy2gAAAAJ&hl=en"
+#curriculum: "cv"
+#  url: files/others/cv_sep23.pdf
 
 langs: ["en"]
 
