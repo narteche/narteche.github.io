@@ -8,6 +8,7 @@ redirect_from:
   - /publications/
   - /publications.html
 ---
+<p>&nbsp;</p>  
 
   
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
