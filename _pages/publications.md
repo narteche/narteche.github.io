@@ -16,7 +16,7 @@ redirect_from:
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *Preprint*  
-  [[PDF](https://narteche.github.io/files/papers/quantumatability_feb24.pdf)  | [ECCC](https://eccc.weizmann.ac.il/report/2024/029/) | [arXiv](https://arxiv.org/abs/2402.10351) ]
+  [[PDF](https://narteche.github.io/files/papers/quantumatability_feb24.pdf)  | [ECCC](https://eccc.weizmann.ac.il/report/2024/029/) | [arXiv](https://arxiv.org/abs/2402.10351)]
 - **Prime Implicant Enumeration via QBF Solvers**  
   Noel Arteche and Montserrat Hermo  
   *Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021)*  
