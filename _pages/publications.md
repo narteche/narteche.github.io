@@ -10,11 +10,11 @@ redirect_from:
 ---
 
 
-
-### Theoretical Computer Science  
-  
 <p>&nbsp;</p>  
 
+### Theoretical Computer Science  
+
+  
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *Preprint*  
