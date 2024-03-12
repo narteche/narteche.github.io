@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2022, I am a doctoral student in theoretical computer science at [Lund University](https://www.lunduniversity.lu.se/) under the supervision of [Susanna F. de Rezende](https://derezende.github.io/index.html) and [Jakob Nordström](https://jakobnordstrom.github.io/), as part of the Mathematical Insights into Algorithms for Optimization (MIAO) research group. I am funded by the [Wallenberg AI, Autonomous Systems and Software](https://wasp-sweden.org/) (WASP) program.
+Since October 2022, I am a doctoral student in theoretical computer science at [Lund University](https://www.lunduniversity.lu.se/) and [University of Copenhagen](https://di.ku.dk/english/research/ac/) under the supervision of [Susanna F. de Rezende](https://derezende.github.io/index.html) and [Jakob Nordström](https://jakobnordstrom.github.io/), as part of the Mathematical Insights into Algorithms for Optimization (MIAO) research group. I am funded by the [Wallenberg AI, Autonomous Systems and Software](https://wasp-sweden.org/) (WASP) program.
 
 Before that, I completed the [Master of Logic](https://msclogic.illc.uva.nl/) at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl/) (ILLC) of the [University of Amsterdam](https://www.uva.nl/en), where I graduated _cum laude_ with a [thesis](https://eprints.illc.uva.nl/id/eprint/2210/1/MoL-2022-11.text.pdf) on the relation between parameterized complexity and knowledge compilation, supervised by [Ronald de Haan](https://staff.science.uva.nl/r.dehaan/) and [Hubie Chen](https://hubie-chen.github.io). I was partially funded by the E. W. Beth Foundation.
 
@@ -20,4 +20,4 @@ I am also interested in game studies and narrative, particularly in video games,
 
 A complete collection of my academic and non-academic writings can be found [here](https://narteche.github.io/publications).
 
-My extended CV in PDF [can be found here](https://narteche.github.io/files/others/cv_sep23.pdf).
+My extended CV in PDF [can be found here](https://narteche.github.io/files/others/cv_mar24.pdf).
