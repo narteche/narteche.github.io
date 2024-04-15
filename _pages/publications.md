@@ -11,6 +11,9 @@ redirect_from:
 <p>&nbsp;</p>  
 
   
+- **From Proof Complexity to Circuit Complexity via Interactive Protocols**  
+  Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
+  *To appear in the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *Preprint*
