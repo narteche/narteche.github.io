@@ -14,10 +14,10 @@ redirect_from:
 - **From Proof Complexity to Circuit Complexity via Interactive Protocols**  
   Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
   *To appear in the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
-  [[PDF](https://narteche.github.io/files/papers/from_proofs_to_circuits_may24.pdf)  | [arXiv]()]  
+  [[PDF](https://narteche.github.io/files/papers/from_proofs_to_circuits_may24.pdf)  | [arXiv](https://arxiv.org/abs/2405.02232)]  
 - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
-  *Preprint*
+  *To appear in the 39th Computational Complexity Conference (CCC 2024)*
   *(A preliminary version appeared as a poster at QIP 2024)*  
   [[PDF](https://narteche.github.io/files/papers/quantumatability_feb24.pdf)  | [ECCC](https://eccc.weizmann.ac.il/report/2024/029/) | [arXiv](https://arxiv.org/abs/2402.10351) | [QIP'24 poster](https://narteche.github.io/files/others/Poster_QIP_2024.pdf)]
 - **Prime Implicant Enumeration via QBF Solvers**  
