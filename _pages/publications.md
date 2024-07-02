@@ -10,24 +10,15 @@ redirect_from:
 ---
 <p>&nbsp;</p>  
 
-  
-- **From Proof Complexity to Circuit Complexity via Interactive Protocols**  
-  Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
-  *To appear in the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
-  [[PDF](https://narteche.github.io/files/papers/from_proofs_to_circuits_may24.pdf)  | [arXiv](https://arxiv.org/abs/2405.02232) | [DROPS](https://doi.org/10.4230/LIPIcs.ICALP.2024.12)]  
-- **Quantum Automating TC⁰-Frege Is LWE-Hard**  
+  - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *To appear in the 39th Computational Complexity Conference (CCC 2024)*  
   *(A preliminary version appeared as a poster at QIP 2024)*  
   [[PDF](https://narteche.github.io/files/papers/quantumatability_may24.pdf)  | [ECCC](https://eccc.weizmann.ac.il/report/2024/029/) | [arXiv](https://arxiv.org/abs/2402.10351) | [QIP'24 poster](https://narteche.github.io/files/others/Poster_QIP_2024.pdf)]
-- **Prime Implicant Enumeration via QBF Solvers**  
-  Noel Arteche and Montserrat Hermo  
-  *Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021)*  
-  [[PDF](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf)]
-- **A Formal Language for QBF Family Definitions**  
-  Noel Arteche and Matthias van der Hallen  
-  *Presented at the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020)*  
-  [[PDF](https://narteche.github.io/files/papers/A%20Formal%20Language%20for%20QBF%20Family%20Definitions%20%5BArteche%2C%20van%20der%20Hallen%5D.pdf)]
+- **From Proof Complexity to Circuit Complexity via Interactive Protocols**  
+  Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
+  *To appear in the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
+  [[PDF](https://narteche.github.io/files/papers/from_proofs_to_circuits_may24.pdf)  | [arXiv](https://arxiv.org/abs/2405.02232) | [DROPS](https://doi.org/10.4230/LIPIcs.ICALP.2024.12)]  
 
 ### Theses
 
@@ -41,6 +32,17 @@ redirect_from:
   BSc Thesis - 2020  
   University of the Basque Country / KU Leven  
   [[PDF](https://narteche.github.io/files/others/A%20Formal%20Language%20and%20Tool%20for%20QBF%20Family%20Definitions%20%5BNoel%20Arteche%20-%20BSc%20Thesis%20text%5D.pdf)]
+
+### Workshop papers
+  
+- **Prime Implicant Enumeration via QBF Solvers**  
+  Noel Arteche and Montserrat Hermo  
+  *Presented at the QBF Workshop 2021 at the 24th conference in Theory and Applications of Satisfiability Testing (SAT 2021)*  
+  [[PDF](https://narteche.github.io/files/papers/Prime%20Implicant%20Enumeration%20via%20QBF%20Solvers%20%5BNoel%20Arteche%2C%20Montserrat%20Hermo%5D.pdf)]
+- **A Formal Language for QBF Family Definitions**  
+  Noel Arteche and Matthias van der Hallen  
+  *Presented at the QBF Workshop 2020 at the 23rd conference in Theory and Applications of Satisfiability Testing (SAT 2020)*  
+  [[PDF](https://narteche.github.io/files/papers/A%20Formal%20Language%20for%20QBF%20Family%20Definitions%20%5BArteche%2C%20van%20der%20Hallen%5D.pdf)]
 
 ### Unpublished manuscripts   
 
