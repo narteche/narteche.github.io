@@ -19,7 +19,11 @@ redirect_from:
   Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
   *In the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
   [[PDF](https://narteche.github.io/files/papers/from_proofs_to_circuits_may24.pdf)  | [arXiv](https://arxiv.org/abs/2405.02232) | [DROPS](https://doi.org/10.4230/LIPIcs.ICALP.2024.12)]  
-
+- **Towards the exact complexity of realizability for Safety LTL**
+  Noel Arteche and Montserrat Hermo  
+  *In the Journal of Logical and Algebraic Methods in Programming, Volume 141 (October 2024)*
+  [[Journal version](https://www.sciencedirect.com/science/article/pii/S2352220824000567#ab0010)]
+  
 ### Theses
 
 - **Parameterized Compilability**  
