@@ -22,7 +22,7 @@ redirect_from:
 - **Towards the exact complexity of realizability for Safety LTL**  
   Noel Arteche and Montserrat Hermo    
   *In the Journal of Logical and Algebraic Methods in Programming, Volume 141 (October 2024)*  
-  [[Journal version](https://www.sciencedirect.com/science/article/pii/S2352220824000567?via%3Dihub)]
+  [[Journal version](https://doi.org/10.1016/j.jlamp.2024.101002)]
   
 ### Theses
 
