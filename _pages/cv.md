@@ -21,3 +21,8 @@ I am also interested in game studies and narrative, particularly in video games,
 A complete collection of my academic and non-academic writings can be found [here](https://narteche.github.io/publications).
 
 My extended CV in PDF [can be found here](https://narteche.github.io/files/others/cv_oct24.pdf).
+
+
+    
+▷ [Publications](https://narteche.github.io/publications)  
+▷ [About me](https://narteche.github.io/about)
