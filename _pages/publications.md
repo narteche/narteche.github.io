@@ -14,7 +14,7 @@ redirect_from:
   - **The Proof Analysis Problem**  
   Noel Arteche, Albert Atserias, Susanna F. de Rezende, and Erfan Khaniki  
   *Unpublished preprint, June 2025*    
-  [[PDF](https://narteche.github.io/files/papers/PAP_june2025.pdf)  | arXiv (*to appear*) ]
+  [[PDF](https://narteche.github.io/files/papers/PAP_june2025.pdf)  | [arXiv](http://arxiv.org/abs/2506.16956) ]
 
   - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
