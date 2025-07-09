@@ -18,9 +18,9 @@ redirect_from:
   - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *In the 39th Computational Complexity Conference (CCC 2024)*  
+  *Journal version to appear in Computational Complexity*    
   *(A preliminary version appeared as a poster at QIP 2024)*  
   [ [PDF](https://narteche.github.io/files/papers/quantumatability_may24.pdf)  | [ECCC](https://eccc.weizmann.ac.il/report/2024/029/) | [arXiv](https://arxiv.org/abs/2402.10351) | [DROPS](https://doi.org/10.4230/LIPIcs.CCC.2024.15) | [QIP'24 poster](https://narteche.github.io/files/others/Poster_QIP_2024.pdf) ]
-    - Journal version to appear in *Computational Complexity*
 - **From Proof Complexity to Circuit Complexity via Interactive Protocols**  
   Noel Arteche, Erfan Khaniki, Ján Pich, and Rahul Santhanam  
   *In the 51st EATCS International Colloquium on Automata, Languages and Programming (ICALP 2024)*  
