@@ -11,10 +11,11 @@ redirect_from:
 <p>&nbsp;</p>  
 
 
-  - **The Proof Analysis Problem**  
+  - [**The Proof Analysis Problem**]()  
   Noel Arteche, Albert Atserias, Susanna F. de Rezende, and Erfan Khaniki  
-  *To appear in the 66th IEEE Symposium on Foundations of Computer Science (FOCS'25)*    
-  [ [PDF](https://narteche.github.io/files/papers/PAP_june2025.pdf)  | [arXiv](http://arxiv.org/abs/2506.16956) ]
+  *In the 66th IEEE Symposium on Foundations of Computer Science (FOCS'25)*    
+  [ [PDF](https://narteche.github.io/files/papers/PAP_june2025.pdf)  | [arXiv](http://arxiv.org/abs/2506.16956)]  
+  ↪ [Video recording of the FOCS talk](https://www.youtube.com/watch?v=F2AkjUPW8Dc&t=1153s)
   - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
   *In [Computational Complexity, volume 34, issue 2, article 16 (October 2025)](https://doi.org/10.1007/s00037-025-00271-w)*  
