@@ -10,7 +10,9 @@ redirect_from:
 ---
 <p>&nbsp;</p>  
 
-
+  - **The Proof Analysis Problem for Constant-Depth Frege**  
+  Noel Arteche, Susanna F. de Rezende, Erfan Khaniki, and Kilian Risse    
+  *Preprint*    
   - [**The Proof Analysis Problem**](https://narteche.github.io/files/papers/PAP_conference_version.pdf)  
   Noel Arteche, Albert Atserias, Susanna F. de Rezende, and Erfan Khaniki  
   *In the 66th IEEE Symposium on Foundations of Computer Science (FOCS'25)*    
