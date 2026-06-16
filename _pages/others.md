@@ -1,6 +1,6 @@
 ---
 permalink: /others
-title: "Other publications"
+title: "Others"
 layout: page
 redirect_from: 
   - /others/
