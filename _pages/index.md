@@ -18,4 +18,5 @@ I am broadly interested in computational complexity theory, proof complexity and
 
     
 ▷ [Publications](https://narteche.github.io/publications)  
-▷ [About me](https://narteche.github.io/about)
+▷ [About me](https://narteche.github.io/about)     
+▷ [Others](https://narteche.github.io/others)
