@@ -14,9 +14,9 @@ Before starting my PhD in 2022, I completed the [Master of Logic](https://msclog
 
 In 2021, I worked as a pre-doctoral researcher at the [Logic and Reasoning](https://www.ehu.eus/es/web/lorea) (LoRea) research group of the [University of the Basque Country](https://www.ehu.eus/en/en-home) under the supervision of Montserrat Hermo, studying the computational complexity of realizability and synthesis of temporal specifications. I received my BSc in Computer Science from the University of the Basque Country in San Sebastián, Spain, in 2020. During my undergraduate studies, I spent an academic year at [KU Leuven](https://www.kuleuven.be/english/kuleuven/) in Belgium, where I worked on the empirical proof complexity of quantified Boolean formulas.
 
-I am also interested in the philosophy of mathematics and mathematical practice. On this topic, I founded and co-organised the [Φ-Math group](https://events.illc.uva.nl/Phi-Math/) in philosophy of mathematics at the ILLC. In the past I have also been interested in game studies and narrative, particularly in video games, and have written on these topics for several Spanish publications. Some of those writings can be found [here](https://narteche.github.io/others/).
+I am also interested in the philosophy of mathematics and mathematical practice. On this topic, I founded and co-organised the [Φ-Math group](https://events.illc.uva.nl/Phi-Math/) in philosophy of mathematics at the ILLC. In the past I have also been interested in game studies and narrative, particularly in video games, and have written on these topics for several Spanish publications. Some of those writings can be found [here](https://narteche.github.io/others).
 
-A complete collection of my academic writings can be found [here](https://narteche.github.io/publications). My extended CV in PDF [can be found here](https://narteche.github.io/files/others/cv_mar26.pdf).
+A complete collection of my academic writings can be found [here](https://narteche.github.io/publications). My extended CV in PDF [can be found here](https://narteche.github.io/files/others/cv_jul26.pdf).
 
     
 ▷ [Publications](https://narteche.github.io/publications)  
