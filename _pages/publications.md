@@ -17,7 +17,7 @@ redirect_from:
   Noel Arteche, Albert Atserias, Susanna F. de Rezende, and Erfan Khaniki  
   *In the 66th IEEE Symposium on Foundations of Computer Science (**FOCS'25**)*    
   [ [PDF](https://narteche.github.io/files/papers/PAP_june2026.pdf)  | [arXiv](http://arxiv.org/abs/2506.16956) | [FOCS extended abstract](https://narteche.github.io/files/papers/PAP_conference_version.pdf)]  
-  ↪ [Video recording of the FOCS talk (Dec 2025)](https://www.youtube.com/watch?v=F2AkjUPW8Dc&t=1153s)
+  ↪ [Video recording of the FOCS talk (Dec 2025)](https://www.youtube.com/watch?v=F2AkjUPW8Dc&t=1153s)     
   ↪ In-depth seminar at the Newton Institute (Sep 2026): [Part I](https://youtu.be/pOpE6gEPkvY?si=gi-_E6dRg1XQGPin) & [Part II](https://youtu.be/XSMfUdcx4YU?si=D6CW6za2njdZCqcS)
   - **Quantum Automating TC⁰-Frege Is LWE-Hard**  
   Noel Arteche, Gaia Carenini, and Matthew Gray  
