@@ -10,6 +10,10 @@ redirect_from:
 ---
 <p>&nbsp;</p>  
 
+  - **Resolution Lower Bounds versus the Weak Pigeonhole Principle**  
+  Noel Arteche    
+*Preprint, under submission*     
+[ PDF coming soon  | arXiv coming soon ]     
   - **The Proof Analysis Problem for Constant-Depth Frege**  
   Noel Arteche, Susanna F. de Rezende, Erfan Khaniki, and Kilian Risse    
 *To appear in the 67th IEEE Symposium on Foundations of Computer Science (**FOCS'26**)*     
